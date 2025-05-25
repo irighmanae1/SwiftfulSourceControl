@@ -5,6 +5,26 @@
 //  Created by Liam Mulligan on 5/25/25.
 //
 
+
+/*
+ COMMIT MESSAGES
+ 
+ NEW FEATURE:
+ [Feature] Description of feature
+ 
+ BUG IN PRODUCTION:
+ [Patch] Description of patch
+ 
+ BUG:
+ [Bug] Description of the bug
+ 
+ MUNDANE TASKS:
+ [clean] Description of changes
+ 
+ RELEASE:
+ [Release] Description of release
+ */
+
 import SwiftUI
 
 struct ContentView: View {
