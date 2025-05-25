@@ -12,9 +12,10 @@ struct HomeView: View {
     
     var body: some View {
         VStack {
+            Text("Hello")
             Text("Screen 2")
             Text("Screen 2")
-            Text("Screen 2")
+            Text("Screen 555")
         }
         
     }
