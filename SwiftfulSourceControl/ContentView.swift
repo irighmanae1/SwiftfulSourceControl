@@ -47,8 +47,8 @@ struct ContentView: View {
                         Text("Some new text")
 
                         Button("Click me") {
-                
-        
+                            
+                        }
                     }
                 }
             }
