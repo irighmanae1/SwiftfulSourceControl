@@ -58,9 +58,9 @@
 				303168C72DE35B2C00D56C68 /* SwiftfulSourceControlApp.swift */,
 				303168C92DE35B2C00D56C68 /* ContentView.swift */,
 				30609D6E2DE36C2A00F08803 /* HomeView.swift */,
+				30BB43AF2DE5253A00660B6D /* SettingsView.swift */,
 				303168CB2DE35B2E00D56C68 /* Assets.xcassets */,
 				303168CD2DE35B2E00D56C68 /* Preview Content */,
-				30BB43AF2DE5253A00660B6D /* SettingsView.swift */,
 			);
 			path = SwiftfulSourceControl;
 			sourceTree = "<group>";
