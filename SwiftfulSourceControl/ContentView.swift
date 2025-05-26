@@ -47,7 +47,7 @@ struct ContentView: View {
                         Image(systemName: "globe")
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
-                        Text("Swiftful thinking !!!!!!")
+                        Text("Swiftful!!!")
 
                         Button("Subscribe now") {
                             
