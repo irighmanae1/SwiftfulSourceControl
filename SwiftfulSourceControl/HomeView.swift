@@ -14,9 +14,7 @@ struct HomeView: View {
         VStack {
             Text("Hello")
         }
-        .onAppear{
-            //send analytics
-        }
+
         
     }
 }
