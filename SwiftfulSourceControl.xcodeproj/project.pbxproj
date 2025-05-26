@@ -12,6 +12,7 @@
 		303168CC2DE35B2E00D56C68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303168CB2DE35B2E00D56C68 /* Assets.xcassets */; };
 		303168CF2DE35B2E00D56C68 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303168CE2DE35B2E00D56C68 /* Preview Assets.xcassets */; };
 		30609D6F2DE36C2A00F08803 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30609D6E2DE36C2A00F08803 /* HomeView.swift */; };
+		30BB43B02DE5253A00660B6D /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BB43AF2DE5253A00660B6D /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		303168CB2DE35B2E00D56C68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		303168CE2DE35B2E00D56C68 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		30609D6E2DE36C2A00F08803 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		30BB43AF2DE5253A00660B6D /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				30609D6E2DE36C2A00F08803 /* HomeView.swift */,
 				303168CB2DE35B2E00D56C68 /* Assets.xcassets */,
 				303168CD2DE35B2E00D56C68 /* Preview Content */,
+				30BB43AF2DE5253A00660B6D /* SettingsView.swift */,
 			);
 			path = SwiftfulSourceControl;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30609D6F2DE36C2A00F08803 /* HomeView.swift in Sources */,
+				30BB43B02DE5253A00660B6D /* SettingsView.swift in Sources */,
 				303168CA2DE35B2C00D56C68 /* ContentView.swift in Sources */,
 				303168C82DE35B2C00D56C68 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
