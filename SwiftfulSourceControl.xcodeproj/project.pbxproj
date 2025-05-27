@@ -13,6 +13,7 @@
 		303168CF2DE35B2E00D56C68 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303168CE2DE35B2E00D56C68 /* Preview Assets.xcassets */; };
 		30609D6F2DE36C2A00F08803 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30609D6E2DE36C2A00F08803 /* HomeView.swift */; };
 		30BB43B02DE5253A00660B6D /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BB43AF2DE5253A00660B6D /* SettingsView.swift */; };
+		30DD7FA92DE5FCDB00FC8945 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DD7FA82DE5FCDB00FC8945 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		303168CE2DE35B2E00D56C68 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		30609D6E2DE36C2A00F08803 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		30BB43AF2DE5253A00660B6D /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		30DD7FA82DE5FCDB00FC8945 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				303168C72DE35B2C00D56C68 /* SwiftfulSourceControlApp.swift */,
 				303168C92DE35B2C00D56C68 /* ContentView.swift */,
+				30DD7FA82DE5FCDB00FC8945 /* ProfileView.swift */,
 				30609D6E2DE36C2A00F08803 /* HomeView.swift */,
 				30BB43AF2DE5253A00660B6D /* SettingsView.swift */,
 				303168CB2DE35B2E00D56C68 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			files = (
 				30609D6F2DE36C2A00F08803 /* HomeView.swift in Sources */,
 				30BB43B02DE5253A00660B6D /* SettingsView.swift in Sources */,
+				30DD7FA92DE5FCDB00FC8945 /* ProfileView.swift in Sources */,
 				303168CA2DE35B2C00D56C68 /* ContentView.swift in Sources */,
 				303168C82DE35B2C00D56C68 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
